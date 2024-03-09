@@ -1,0 +1,41 @@
+div{
+    background-color: rgb(210, 253, 253);
+    margin: 2px;
+    border: 10px solid rgb(170, 170, 247);
+    padding: 15px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: solid;
+    color: rgb(2, 2, 2);
+    background-color: rgb(190, 212, 224);
+    margin: 10px;
+    border: 5px solid rgb(223, 198, 198);
+}
+img{
+    border-radius: 170px;
+    position: relative;
+    left: 500px;
+    border: 15px solid rgb(210, 207, 219);
+}
+.Education{
+    font-size: 35px;
+    
+}
+p{
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+    
+}
+footer{
+    text-align: center;
+}
+.link{
+    color: rgb(89, 8, 155);
+}
+.contact{
+    font-size: 200px;
+}
